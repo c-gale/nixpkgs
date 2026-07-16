@@ -743,6 +743,4 @@ in
       ${cfg.group} = { };
     };
   };
-
-  meta.doc = ./pterodactyl-panel.md;
 }
